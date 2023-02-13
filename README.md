@@ -10,4 +10,4 @@ https://replit.com:/@zvqle/ZivTerm-Rewritten-In-C?s=app
 The Python Version (discontinued, replaced by the c# version)
 https://replit.com:/@zvqle/ZivTerm-A-Fun-Python-Shell?s=app
 
-To run the shell download the zip and run ZivTerm.exe
+To run the shell download the zip, extract everything to the same folder, and run ZivTerm.exe
