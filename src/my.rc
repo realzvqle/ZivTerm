@@ -1,0 +1,28 @@
+id ICON "index.ico"
+1 VERSIONINFO
+FILEVERSION     0,0,0,0
+PRODUCTVERSION  0,0,0,0
+BEGIN
+  BLOCK "StringFileInfo"
+  BEGIN
+    BLOCK "080904E4"
+    BEGIN
+      VALUE "CompanyName", "zvqle"
+      VALUE "FileDescription", "A Shell Concept!"
+      VALUE "FileVersion", "0.0"
+      VALUE "InternalName", "ZivTerm"
+      VALUE "LegalCopyright", "zvqle"
+      VALUE "OriginalFilename", "ZivTerm.exe"
+      VALUE "ProductName", "ZivTerm"
+      VALUE "ProductVersion", "1.0"
+    END
+  END
+  BLOCK "VarFileInfo"
+  BEGIN
+    VALUE "Translation", 0x809, 1252
+  END
+END
+
+
+
+
